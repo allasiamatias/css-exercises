@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.impar{
+    background-color: palevioletred;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#primero{
+    color: blue;
+    font-size: 36px;
+}
+
+.grande{
+    font-size: 24px;
+}
+
+#segundo{
+    background-color: green;
+    font-weight: bold
+}

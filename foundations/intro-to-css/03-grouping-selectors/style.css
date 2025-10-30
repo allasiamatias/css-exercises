@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.oprimir,.inactivo{
+    font-size: 28px;
+    font-family:Helvetica, "Times New Roman", sans-serif;
+}
+.oprimir{
+    background-color: black;
+    color: white;
+}
+
+.inactivo{
+    background-color: yellow;
+}
